@@ -1,0 +1,29 @@
+{
+  "name": "Gridify",
+  "id": "1121065701818527435",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "parameters": [
+    {
+      "name": "Cols",
+      "key": "cols",
+      "description": "Enter the number of columns.",
+      "allowFreeform": true
+    },
+    {
+      "name": "Spacing",
+      "key": "spacing",
+      "description": "Enter the spacing between cells.",
+      "allowFreeform": true
+    },
+    {
+      "name": "Width",
+      "key": "width",
+      "description": "Enter the width and height of a cell.",
+      "allowFreeform": true
+    }
+  ]
+}
